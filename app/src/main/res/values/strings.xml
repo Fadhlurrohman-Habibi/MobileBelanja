@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MobilBelanja</string>
+    <string name="barang1">1. Minyak Goreng Bimoli (Rp.29.000) </string>
+    <string name="barang2">2. Indomie Goreng (Rp.2.500) </string>
+    <string name="barang3">3. Rinso (Rp.30.000) </string>
+    <string name="generate">Generate</string>
+    <string name="bersih">Bersih</string>
+    <string name="prosesgenerate">Generate</string>
+    <string name="prosesbersih">Bersih</string>
+    <string name="namabarang">Daftar Nama Barang di beli</string>
+    <string name="tampilnamabarang">tampilnamabarang</string>
+    <string name="btngeneratenama">btngeneratenama</string>
+    <string name="generatenama">Tampil Barang</string>
+
+    <string-array name="menu_spinner">
+        <item>Pilih Item</item>
+        <item>Minyak Goreng</item>
+        <item>Indomie</item>
+        <item>Rinso</item>
+    </string-array>
+</resources>
